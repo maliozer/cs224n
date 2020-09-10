@@ -1,0 +1,10 @@
+Kave Scrapping and Word2Vec Question 2
+https://github.com/maliozer-space/kave_soru2_nlp/blob/master/Mehmet%20Ali%20Ozer%20-%20Web%20Scraper%20%26%20NLP.ipynb
+
+w2v example for txt novel
+https://github.com/maliozer-space/word2vec_KafkaMetamorphosis/blob/master/donusumKafka_word2vec.ipynb
+
+Naive B Text Classifier
+https://github.com/maliozer-space/nlp_naiveb_text_classifier
+
+

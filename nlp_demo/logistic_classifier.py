@@ -95,7 +95,7 @@ if __name__ == '__main__':
     model_costs = np.squeeze(costs)
     
     plt.plot(model_costs)
-    plt.ylabel('cost')
+    plt.ylabel('training cost')
     plt.xlabel('iterations (per hundreds)')
-    plt.title("Learning rate = 0.01")
+    plt.title("Learning rate = 0.1")
     plt.show()
